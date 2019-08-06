@@ -37,5 +37,19 @@ a project notebook `Traffic_Light_Classifier.ipynb.`
 
 In this notebook, some template code has already been provided, and I implemented additional code steps to successfully complete this project. There are also a couple of questions about my thoughts as I worked through this project, which are marked with '(QUESTION)' in the header.
 
-## Known accuracy of current code
+
+**_Helper functions and testing_**
+
+Also included are some additional Python files: `helpers.py` and `test_functions.py`
+
+These provide helper functions (that load in data) and test functions that will let you test your code as you go! You do not need to change these files, but you may add to them if you want. It is especially encouraged to look at the test functions and see how they evaluate your code.
+
+
+**_Criteria_**
+Two criteria:
+    1. Greater than 90% accuracy
+    2. Never classify red lights as green
+
+## Known accuracy of current code: 96.296
+
 
