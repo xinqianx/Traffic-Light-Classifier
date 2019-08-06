@@ -50,6 +50,7 @@ Two criteria:
     1. Greater than 90% accuracy
     2. Never classify red lights as green
 
-## Known accuracy of current code: 96.296
+## Known accuracy of current code: 
+**_96.296%_**
 
 
