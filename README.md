@@ -6,6 +6,8 @@ Project of nano degree from Udacity - Intro to self-driving cars
 
 In this project, I use knowledge of computer vision techniques to build a classifier for images of traffic lights! I was given a dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
+
+
 **_Classification Steps_**
 
 In the provided notebook, I pre-processed these images, extract features that will help distinguish the different types of images, and use those features to classify the traffic light images into three categories: red, yellow, or green. The tasks will be broken down into a few sections:
@@ -23,3 +25,16 @@ In the provided notebook, I pre-processed these images, extract features that wi
 
 
 **5. Evaluate your model.** To pass this project, your classifier must be >90% accurate and never classify any red lights as green; it's likely that you'll need to improve the accuracy of your classifier by changing existing features or adding new features. I'd also encourage you to try to get as close to 100% accuracy as possible!
+
+
+
+
+## Instructions
+
+**_The Notebook_**
+
+a project notebook `Traffic_Light_Classifier.ipynb.`
+
+
+## Known accuracy of current code
+
