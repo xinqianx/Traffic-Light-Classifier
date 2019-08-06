@@ -8,6 +8,7 @@ In this project, I use knowledge of computer vision techniques to build a classi
 
 
 
+
 **_Classification Steps_**
 
 In the provided notebook, I pre-processed these images, extract features that will help distinguish the different types of images, and use those features to classify the traffic light images into three categories: red, yellow, or green. The tasks will be broken down into a few sections:
@@ -25,6 +26,7 @@ In the provided notebook, I pre-processed these images, extract features that wi
 
 
 **5. Evaluate your model.** To pass this project, your classifier must be >90% accurate and never classify any red lights as green; it's likely that you'll need to improve the accuracy of your classifier by changing existing features or adding new features. I'd also encourage you to try to get as close to 100% accuracy as possible!
+
 
 
 
@@ -49,6 +51,8 @@ These provide helper functions (that load in data) and test functions that will 
 Two criteria:
     1. Greater than 90% accuracy
     2. Never classify red lights as green
+
+
 
 ## Known accuracy of current code: 
 **_96.296%_**
