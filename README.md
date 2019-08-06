@@ -35,6 +35,7 @@ In the provided notebook, I pre-processed these images, extract features that wi
 
 a project notebook `Traffic_Light_Classifier.ipynb.`
 
+In this notebook, some template code has already been provided, and I implemented additional code steps to successfully complete this project. There are also a couple of questions about my thoughts as I worked through this project, which are marked with '(QUESTION)' in the header.
 
 ## Known accuracy of current code
 
